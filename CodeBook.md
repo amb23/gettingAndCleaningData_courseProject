@@ -89,7 +89,7 @@ Variables:
         "bodyAccelerationJerk":
           Measures the jerk applied to the body. Derived from the body acceleration, essentially its rate of change.
 
-        "bodyAngular":
+        "bodyAngularVelocity":
           Measures the angular velocity. Derived from the gyroscope measurements.
 
         "bodyAngularJerk":
