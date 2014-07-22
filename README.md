@@ -19,11 +19,12 @@ The files contained within this repo are as follows:
     the raw data set. It also contains a list of the variables used in the tidy table produced by the above script.
     
     
-3.tidy_table.Rda
+3. tidy_table.Rda
 
-    An .Rda file containing the tidy table.
+    An .Rda file containing the tidy table as required from part 5 of the assignment.
     
   
-4.tidy_table.txt
+4. tidy_table.txt
 
-  A plain text file with the same information as above.
+   A plain text file with the same information as above.
+ 
