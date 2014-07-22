@@ -95,7 +95,8 @@ Variables:
         "bodyAngularJerk":
           Measures the jerk of the angular velocity.
           
-    ##Example: The variable that measures the standard deviation of the mganitude of the angular velocity of the body in                the frequency domain is "freq_bodyAngularVelocity_std_Mag".
+    ##Example: The variable that measures the standard deviation of the mganitude of the angular velocity of the body in
+               the frequency domain is "freq_bodyAngularVelocity_std_Mag".
   
   
   
