@@ -45,10 +45,10 @@ Analysis:
      necessary files, for both train and test, are extracted and we return the wd to its original.
      
   2. In this step we merge the data sets for the train and test files. We merge rows before columns so we end up
-     with three data.frames, one for the subject id, one for the measurements, and one for the measurements.
+     with three data.frames, one for the subject id, one for the activities, and one for the measurements.
      
   3. We now clean the variable names. This is performed by a function defined within the source code that gives all
-     the variables descriptive names. See the section below for a more detailed explenation of the variable names.
+     the variables descriptive names. See the section in CodeBook.md detailed explenation of the variable names.
      We also give all the activities their descriptive names.
      
   4. The function then constructs a tidy data set that only takes the means and standard deviations of the original
