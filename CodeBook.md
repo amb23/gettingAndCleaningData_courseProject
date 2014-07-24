@@ -34,16 +34,16 @@ Variables:
     These subvariables are defined as follows.
     
     "domain":
-      This variable takes the values "time" or "freq" depending on whether tehe measurement corresponds to one taken
+      This variable takes the values "time" or "freq" depending on whether the measurement corresponds to one taken
       in the time domain or one taken in the frequency domain respectively.
       
     "stat":
       This variable determines the statistic being measured. It is equal to "mean" or "std" corresponding to the 
-      mean and the standard deviation repsectively.
+      mean or the standard deviation repsectively.
       
     "dir":
       This variable measures the direction in which the measurement is taken. It can take one of four values "X",
-      "Y", "Z" or "Mag". If it takes one of the values "X", "Y" or "Z" this just means the cartesian direction of 
+      "Y", "Z" or "Mag". If it takes one of the values "X", "Y" or "Z" this just means the Cartesian direction of 
       the measurement. If it takes the value "Mag" it means we consider the Euclidean norm of the vector spanned
       by the other 3 directions.
       
